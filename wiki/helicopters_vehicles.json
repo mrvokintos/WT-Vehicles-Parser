@@ -1,0 +1,438 @@
+﻿{
+  "SA.342L Gazelle": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-10": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-10A": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-10ME": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-11WA": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-19": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-19E": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-9W": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "Z-9WA": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "␗AH-1W": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "␗AH-64E": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "␗OH-58D": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "▄Mi-35M": {
+    "nation": "China",
+    "type": "heli"
+  },
+  "EC-665 Tiger HAC": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "EC-665 Tiger HAD": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "EC-665 Tiger HAP": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "IAR 316B": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "SA 313B Alouette II": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "SA 316B Alouette III": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "SA.341F Gazelle": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "SA.342M Gazelle": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "Tiger HAD Block 2": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "▄H-34": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "◘AH-64D": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "◘AH-64E": {
+    "nation": "France",
+    "type": "heli"
+  },
+  "BO 105 CB-2": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "BO 105 PAH-1": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "BO 105 PAH-1A1": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "EC-665 Tiger UHT": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "▄Tigre HAD-E": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◄Mi-24P HFS 80": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◄SA 313B Alouette II": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◄UH-1D": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◊Mi-24P": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "◊Mi-8TB": {
+    "nation": "Germany",
+    "type": "heli"
+  },
+  "AH Mk.1 Apache": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "AH Mk.2 Apache": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "G-LYNX": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Lynx AH.Mk.1": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Rooivalk Mk1F CSH": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Scout AH.Mk.1": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Superhind": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Wasp HAS.Mk.1": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Wessex HU Mk.5": {
+    "nation": "Great Britain",
+    "type": "heli"
+  },
+  "Lahatut": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "Peten": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "Saraph": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "Tzefa A": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "Tzefa B": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "Tzefa D/E": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "AH-60": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "AH-64A Peten": {
+    "nation": "Israel",
+    "type": "heli"
+  },
+  "A-129 International (p)": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "A.109EOA-2": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "A129CBT": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "AB 205 A-1": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "AH-129D": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "T129": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "◔Mi-24D": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "◔Mi-24P": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "◔Mi-24V": {
+    "nation": "Italy",
+    "type": "heli"
+  },
+  "AH-1S": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "AH-1S Kisarazu": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "AH-64DJP": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "AH-64DJP (AT)": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "▅AH-1E": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "▅UH-1B": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "◥AH-64E": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "◥Mi-35": {
+    "nation": "Japan",
+    "type": "heli"
+  },
+  "AHS": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+  "HKP2": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+  "HKP3C": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+  "HKP9A": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+  "HKP9A (FC)": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+  "Mi-28A": {
+    "nation": "Sweden",
+    "type": "heli"
+  },
+  "AH-1F": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1G": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1W": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-1Z": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-56A": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64A": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64A (GR)": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64D": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-64E": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "AH-6M": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "H-34": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "MH-60L DAP": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "OH-58D": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "RAH-66": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "UH-1B": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "UH-1C": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "UH-1C XM-30": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "YAH-64": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "▃AH-64A Peten": {
+    "nation": "USA",
+    "type": "heli"
+  },
+  "Ка-29": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ка-50": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ка-52": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-24А": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-24В": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-24П": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-28Н": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-28НМ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-35М": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-35П": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-4АВ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-8АМТШ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-8АМТШ-ВН": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "Ми-8ТВ": {
+    "nation": "USSR",
+    "type": "heli"
+  },
+  "▂Ми-24Д": {
+    "nation": "USSR",
+    "type": "heli"
+  }
+}

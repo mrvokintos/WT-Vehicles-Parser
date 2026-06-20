@@ -1,0 +1,5154 @@
+﻿{
+  "A-29": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "A-5C": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "CW-21": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "D.510C": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "H-5": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "H-81A-2": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Hawk III": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-10A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-10C": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-11": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-11A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-11B": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-15T": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-2": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-4": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-6A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-7D": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-7E": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-7II": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-8B": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "J-8F": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "JF-17": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "JH-7": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "JH-7A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "JH-7A Prototype": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Martin 139WC": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Mosquito FB.Mk.26": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "P-66": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Q-5 early": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Q-5A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Q-5L": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Qing-6": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Shenyang F-5": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "V-11": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "V-12D": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Wing Loong I": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗A6M2": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗B-25J-30": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗DB-3A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-100A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-100F": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-104A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-104G": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-16A MLU": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-47N-25-RE": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-5A": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-5E": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-84G-21-RE": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-84G-31-RE": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-86F-30": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗F-86F-40": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Gladiator Mk.I": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗H-75M": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Hs 123 A-1": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗I-153 M-62": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗I-15bis": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗I-16 Chung 28": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗I-16 type 10": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗I-16 type 17": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗I-16 type 5": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗IL-10 (1946)": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Ki-27 Otsu": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Ki-43-III Ko": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Ki-44-II Hei": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Ki-45 Hei/Tei": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Ki-61-I Otsu": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Ki-84 Ko": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗La-11": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗La-9": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗MiG-9": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗MiG-9 (l)": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Mirage 2000-5Ei": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-38L-1": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-40E-1": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-43A-1": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-47D-23-RA": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-47D-30": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-51C-11-NT": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-51D-20": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P-51K": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗P1Y1 mod. 11": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗PB4Y-2": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗SB 2M-103U": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Su-30MKK": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Tu-2S-44": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "␗Tu-4": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "▄F-6C": {
+    "nation": "China",
+    "type": "plane"
+  },
+  "Alpha Jet E": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "B-26C": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Br.693AB2": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "C.R.714": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.371": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.371 H.S.9": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.373": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.500": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.501": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.510 Пальера": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "D.520": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Etendard IVM": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "F-6C-10-NA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "F-84F IAF": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "F.222.2": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "F4U-7": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "GL.832HY": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "H-75A-1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "H-75A-4": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Jaguar A": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Jaguar E": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Lancaster MR.7": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Late 298D": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "LeO 451 early": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "LeO 451 late": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Loire 130С": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.B.151C.1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.B.152C1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.B.157": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.B.162": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.B.174A-3": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.B.175T": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.D.450B Barougan": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.D.450B Ouragan": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.D.452 IIA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.D.452 IIC": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.S.405C1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.S.406C1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "M.S.410": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Martin 167-A3": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Milan": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 2000-5F": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 2000C-S4": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 2000C-S5": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 2000D-R1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 2000D-RMV": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 4000": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage 5F": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage F1C": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage F1C-200": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage F1CT": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage IIIC": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mirage IIIE": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Mystere IVA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "N.C.223.3": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "NC.900": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Potez 630": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Potez 631": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Potez 633": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Rafale C F3": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Rafale M F3-R": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "S.O.4050 Vautour IIA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "S.O.4050 Vautour IIB": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "S.O.4050 Vautour IIN": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "S.O.4050 Vautour IIN (Late)": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "S.O.8000 Narval": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Super Etendard": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Super Mystere B2": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "V-156-F": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "V.G.33C-1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "VB.10-02": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "VB.10C-1": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Vautour IIA IDF/AF": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "␙Super Mystere B2": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄A-35B": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄AD-4": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄AD-4NA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F-100D": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F-104G": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-16A": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F-16A OCU": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F-16AM": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F-84F": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-84G-26-RE": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F-86K": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-8E(FN)": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F6F-5": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F6F-5N": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄F8F-1B": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄Gladiator Mk.I": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄Meteor F Mk.8": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄Mirage 5BA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄P-39Q-25": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄P-40F-5 Lafayette": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄P-47D-22-RE": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄P-63C-5": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄PB4Y-2": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄PBY-5A Late": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄SB2C-5": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄Seafire LF Mk.III": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄Spitfire FR Mk.XIVe": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄Yak-3": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "▄Yak-9Т Шалля": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◗Fokker D.XXI": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◗Fokker D.XXIII": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◗Fokker G.IA": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘F-16A": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘Firefly F.Mk.IV": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘Hunter F.6": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘NF-5A": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘SB-25J": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘Sea Fury FB.51": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "◘Sea Hawk Mk.50": {
+    "nation": "France",
+    "type": "plane"
+  },
+  "Alpha Jet A": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Alpha Jet A (JaboG 41)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ar 196 A-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ar 234 B-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ar 234 C-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "BV 138 C-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "BV 155 B-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "BV 238": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 A Флегеля": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 B-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 C-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 E-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 E-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 E-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 E-7/U2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 F-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 F-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 F-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 F-4/trop": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 G-10": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 G-14": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 G-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 G-2/trop": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 G-6": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 K-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 T-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 109 Z-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 110 C-6": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 110 C-7": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 110 F-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 110 G-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Bf 110 G-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 17 E-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 17 Z-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 17 Z-7": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 E-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 E-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 J-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 J-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 K-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 M-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 N-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 217 N-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 335 A-0": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 335 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Do 335 B-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 189 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-5": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-5/U12": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-5/U14": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-5/U2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 A-8": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 C": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 D-12": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 D-13": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 D-9": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 190 F-8": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Fw 200 C-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 100 D-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 111 H-16": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 111 H-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 111 H-6": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 112 A-0": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 112 B-0": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 112 B-1/U2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "He 112 B-2/U2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 112 V-5": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 115 C-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 162 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 162 A-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 177 A-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 177 A-5": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 219 A-7": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 51 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 51 B-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 51 B-2/H": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 51 C-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "He 51 C-1/L": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ho 229 V3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Hs 123 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Hs 129 B-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Hs 129 B-2 (Румыния)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Hs 129 B-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 188 A-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 288 C": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 388 J": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 B-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 D-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 D-5": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 G-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 G-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 R-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 87 R-2 Libya": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 88 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 88 A-4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ju 88 C-6": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 163B": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 163B-0": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 210 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 A-1/U4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 A-1a": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 A-1a/Jabo": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 A-1a/U1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 A-2a": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 C-1a": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 262 C-2b": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 264": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 A-1/U2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 A-1/U4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 B-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 B-1/U2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 B-2/U4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Me 410 B-6/R3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ta 152 C-3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ta 152 H-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Ta 154 A-1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀C. 200 серия 3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀C. 200 серия 7": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀C. 202": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀C.R.42 CN Марколина": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀CR.42": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀G.50 AS серия 7": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀G.50 серия 2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀Hawk H-75A-2": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀IL-2 (1942)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀La-5FN": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀P-47D": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀P-47D-16-RE": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 AS": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 B": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 bis/N": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 bis/T.M": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 серия 1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 серия 4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀S.M.79 серия 8": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀Tempest Mk.V": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀Wellington Mk.Ic": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "▀Yak-1B": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄CL-13A Mk.5": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄CL-13B Mk.6": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄EF-2000": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄EF-2000 (AESA)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-104G": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-4F": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-4F Early": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-4F KWS LV": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-84F": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄F-86K": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄G.91 R/3": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄G.91 R/4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄MiG-21 SPS-K": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄MiG-29G": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Sea Hawk Mk.100": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Su-22M4 WTD61": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS ASSTA1": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS MFG": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS SLE": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◄Tornado IDS WTD61": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊IL-28": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊Lim-5P": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-15bis": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-19S": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-21 \"Lazur-M\"": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-21MF": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-21bis-SAU": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-23BN": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-23MF": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-23MLA": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊MiG-29 (9-12A)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊Su-22M4": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◊Su-22UM3K": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌F-5E": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌F/A-18C": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌F/A-18C Late": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌FFA P-16": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌Hunter F.58": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌Hunter F.58A (1971)": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌Mirage IIIS C.70": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "◌С-3604": {
+    "nation": "Germany",
+    "type": "plane"
+  },
+  "Attacker FB.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Attacker FB.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Beaufighter Mk I (40-mm)": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Beaufighter Mk.21": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Beaufighter Mk.VIc": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Beaufighter Mk.X": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Beaufort Mk.VIII": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Blenheim Mk.IV": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Brigand B 1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Buccaneer S.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Buccaneer S.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Buccaneer S.2B": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "CF-188A": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Canberra B(I).Mk.6": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Canberra B.Mk.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Chesapeake Mk I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "F-111C": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "F-4J(UK) Phantom II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Firebrand TF.Mk.IV": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Firecrest": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Firefly F.Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Firefly FR.Mk.V": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Fury Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Fury Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Gladiator Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Gladiator Mk.II Така": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Gladiator Mk.IIF": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Gladiator Mk.IIS": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "H.P.12": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Halifax B Mk.IIIa": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hampden Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hampden TB Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Harrier GR.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Harrier GR.3": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Harrier GR.7": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Harrier T.10": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hawk 200": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hawk 200 RDA": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hornet Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hornet Mk.III": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hunter F.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hunter F.6": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hunter FGA.9": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hurricane Mk.I/L": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hurricane Mk.I/L FAA M": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hurricane Mk.IIB/Trop": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Hurricane Mk.IV": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Jaguar GR.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Jaguar GR.1A": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Jaguar IS": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Javelin F.(A.W.) Mk.9": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Lancaster B.Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Lancaster B.Mk.III": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Lightning F.53": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Lightning F.6": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Lincoln B.Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "MB.5": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Meteor F Mk.3": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Meteor F Mk.4 G.41F": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Meteor F Mk.4 G.41G": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Meteor F Mk.8 G.41K": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Meteor F Mk.8 Reaper": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Mosquito B.Mk.XVI": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Mosquito FB.Mk.VI": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Mosquito FB.Mk.XVIII": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Mosquito NF.Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Mosquito TR.Mk.33": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Nimrod Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Nimrod Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Osprey Mk IV": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Phantom FG.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Phantom FGR.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Scimitar F Mk.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Fury FB.11": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Gladiator Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Harrier FA 2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Harrier FRS.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Harrier FRS.1 (e)": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Hawk FGA.6": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Hurricane Mk.IB": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Hurricane Mk.IС": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Meteor F Mk.3": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Venom FAW 20": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sea Vixen F.A.W. Mk.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Seafire F.Mk.XVII": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Seafire FR.47": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Seafire LF Mk.III": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Shackleton MR.Mk.2": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.22": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.24": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.IX": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.IXc": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.XIVc": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.XIVe": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.XVI": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire F Mk.XVIIIe": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire FR Mk.XIVe Прендергаста": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire LF Mk.IX": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire LF Mk.IXc Плагиса": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.IIa": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.IIa Venture I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.IIb": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.Ia": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.Vb": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.Vb (Float)": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.Vb/trop": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.Vc": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Spitfire Mk.Vc/trop": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Stirling B.Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Stirling B.Mk.III": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Strikemaster Mk.88": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sunderland Mk. IIIa": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Sunderland Mk.V": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Swift F.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Swift F.7": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Swordfish Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Swordfish Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tempest Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tempest Mk.V": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tempest Mk.V (Vickers P)": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tornado F.3": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tornado F.3 Late": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tornado GR.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Tornado GR.4": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Typhoon (AESA)": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Typhoon FGR.4": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Typhoon Mk.Ia": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Typhoon Mk.Ib": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Typhoon Mk.Ib/L": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Vampire F.B.5": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Venom FB.4": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Walrus Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Wellington Mk.III": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Wellington Mk.Ic": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Wellington Mk.Ic/L": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Wellington Mk.X": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Whirlwind Mk I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Whirlwind P.9": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Wyvern S.4": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄AF/A-18A Late": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Avenger Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Boomerang Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Boomerang Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Boston Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Catalina Mk. IIIa": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Corsair F Mk II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄D.520": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄D.521": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄DB-7": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄F/A-18A": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄F/A-18F": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄HF-24": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Havoc Mk.I": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Hellcat Mk.II": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Hudson Mk.V": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄JAS39C": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄Martlet Mk.IV": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄MiG-21 Bison": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Mustang Mk.IA": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Thunderbolt Mk.1": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "▄Wirraway": {
+    "nation": "Great Britain",
+    "type": "plane"
+  },
+  "Ayit": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Baz": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Baz Meshupar": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "F-15I Ra’am": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "F-16C Barak II": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "F-16D Barak II": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "F-16I Sufa": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Kfir C.2": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Kfir C.7": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Kfir Canard": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Kurnass": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Kurnass 2000": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Nesher": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Netz": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Netz (Mod)": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Sa'ar": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Sakeen": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Sambad": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Shahak": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "▃Spitfire LF Mk.IXc (CW)": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "◡Kfir C.10": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "A-4E": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "A-4E Early (M)": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "A-4H": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "B-17G": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "F-84F": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "M.D.450B (29)": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "M.D.450B Ouragan": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Meteor F.8": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Meteor FR.9": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Meteor NF.13": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Mystere IVA": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "P-51D-20-NA": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Spitfire LF Mk.IXe Вейцмана": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Spitfire Mk.IX (CW)": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Spitfire Mk.IXc": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Vautour IIA": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "Vautour IIN": {
+    "nation": "Israel",
+    "type": "plane"
+  },
+  "AMX": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "AMX A-1A": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Ariete": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "B.R.20DR": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "B.R.20M M1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Ba.65 (K.14) L": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Ba.65 A.80": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Breda 88 (P.XI)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 200 серия 3": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 200 серия 7": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 202": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 202D": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 202EC": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 205 серия 1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 205 серия 3": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "C. 205N2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "CL-13 Mk.4": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "CR.32": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "CR.32 bis": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "CR.32 quater": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "CR.42": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "CR.42 CN Марколина": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "F-104S": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "F-104S.ASA": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "F-2000A": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "F-2000A (AESA)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "F.C.20 Bis": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.50 AS серия 7": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.50 серия 2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.55 подсерия 0": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.55 серия 1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.55S": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.56": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.91 R/1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.91 R/4": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.91 Y": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.91 YS": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "G.91 pre-serie": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "IAR-81C": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "IAR-93B": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "MB-326B": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "MB-326K": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "MiG-29 Sniper": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "P.108A серия 2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "P.108B серия 1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "P.108B серия 2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2000 G.A.": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2000 серия 1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2001 CB": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2001 CN": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2001 gruppo 22": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2001 serie 1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2002 Early": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2005 (VDM)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Re.2005 serie 0": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Ro.43": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Ro.44": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Ro.57 Quadriarma": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "S.81": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "S.M.79 AS": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "S.M.79 B": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "S.M.79 bis/T.M": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "S.M.79 серия 1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "S.M.79 серия 8": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "SM.91": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "SM.92": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Sagittario 2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Tornado ADV": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Vampire FB 52A": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Z.1007 bis серия 3": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "Z.1007 bis серия 5": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄AV-8B Plus": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄Bf 109 G-14/AS": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-104S TAF": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-16A ADF": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄F-84G-21-RE": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄Ju 87 D-3": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄Ju 87 R-2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄P-47D-30": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄Spitfire Mk.Vb/trop": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄Tornado IDS": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄Tornado IDS (1995)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "▄Tornado IDS MLU (RET.8)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Bf 109 F-4": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Bf 109 G-2": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Bf 110 G-4": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Fw 190 F-8": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Héja I": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Héja II": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔IL-10": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔IL-28": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔JAS39EBS HU C": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Me 210 Ca-1": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Me 210 Ca-1 36.M": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔MiG-15bis": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔MiG-17PF": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔MiG-21MF": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔MiG-21bis-SAU": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔MiG-23MF": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔MiG-29 (9-12B)": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Su-22M3": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Tu-2S-59": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔WM-21": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔WM-23": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "◔Yak-9P": {
+    "nation": "Italy",
+    "type": "plane"
+  },
+  "A5M4": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A5M4 Хагири": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M2 mod. 11": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M2-N": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M3": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M3 mod. 22": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M3 mod. 22Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M5": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M5 Hei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M5 Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M5 Ко": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A6M6c": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A7He1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A7M1 (NK9H)": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A7M2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Aichi E13A1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "B5N2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "B6N1 Model 11": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "B6N2 Model 12": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "B6N2a Model 12Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "B7A2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "B7A2 (Homare 23)": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "D3A1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "D4Y1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "D4Y2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "D4Y3 Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "E7K2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "E8N2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-104J": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-15J": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-15J(M)": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-16AJ": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-2A": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-2A ADTW": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-4EJ ADTW": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-4EJ Kai Phantom II": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-4EJ Phantom II": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-86F-30 ▅": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-86F-40 JASDF▅": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F-86F-40 ▅": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "F1M2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "G4M1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "G5N1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "G8N1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "H6K4": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "H8K2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "H8K3": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J1N1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J2M2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J2M3": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J2M4 Kai": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J2M5": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J2M5 (Type 5)": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J5N1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J6K1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "J7W1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-10-I": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-10-I К": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-10-II": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-10-II К": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-100": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-100-II": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-102 Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-108 Kai": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-109": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-200": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-21-I Hei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-21-Ia": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-27 Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-27 Otsu Tachiarai": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-32": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-43-I": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-43-II": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-43-III Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-44-I": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-44-I 34": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-44-II Hei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-44-II Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-45 Hei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-45 Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-45 Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-45 Tei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-48-II Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-49-I": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-49-IIa": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-49-IIb": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-49-IIb/L": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-61-I Hei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-61-I Hei Тада": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-61-I Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-61-I Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-61-I Tei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-61-II Otsu Kai": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-67-I Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-67-I Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-83": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-84 Hei": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-84 Ko": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-84 Otsu": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-87": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-94-II": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Ki-96": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "Kikka": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "N1K1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "N1K1-Ja": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "N1K2-J": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "N1K2-Ja": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "P1Y1 mod. 11": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "R2Y2 Kai V1": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "R2Y2 Kai V2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "R2Y2 Kai V3": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "T-2": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "T-2 Early": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄A-7E": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄AV-8S": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄AV-8S Late": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄Alpha Jet A": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄Alpha Jet TH": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F-5A": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F-5E FCU": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F-5T SCU": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F-5TH TCU": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄F/A-18D Late": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄MiG-29N": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▄Su-30MKM": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▅B-17E": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▅Bf 109 E-7": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▅F4U-1A": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▅Fw 190 A-5": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▅Me 210 V22": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "▅P-51C-11-NT": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "◥Hawk 209": {
+    "nation": "Japan",
+    "type": "plane"
+  },
+  "A21A-3": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A21RB": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A28B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A29B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A32A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A32A Röd Adam": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "AJ37": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "AJS37": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "B17A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "B17B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "B18A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "B18B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "B3C": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J11": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J20": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J21A-1": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J21A-2": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J21RA": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J22-A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J22-B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J26": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J26 David": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J29A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J29D": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J29F": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J32B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J34": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J35A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J35D": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J6B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J8A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J8A Якоби": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "J9 Early": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JA37C": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JA37D": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JA37DI": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JA37DI F21": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JAS39A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JAS39C": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JAS39D": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "JAS39E": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "Mosquito J30": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "Mörkö-Morane": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "S17BS": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "SAAB-105G": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "SAAB-105OE": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "SK60B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "Saab F-35": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "Saab J35XS": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "T 2": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "T18B": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "T18B (57)": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "VL Myrsky II": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "VL Pyörremyrsky": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Ar 196 A-5": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄B-239": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Bf 109 G-2": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Bf 109 G-6": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Bf 109 G-6 Erla": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄F-18C": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄F/A-18C MLU 2": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Fokker D.XXI": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Fokker D.XXI-3": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Hurricane Mk.I/L": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Ju 88 A-4": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄MiG-21bis": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "▄Vampire FB 52A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "◢F-16A": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "◢F-16AM": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "◢F-5A(G)": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "◢Mosquito F.Mk.II": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "◢Mosquito FB.Mk.VI": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "◢Mosquito FB.Mk.VI ASH": {
+    "nation": "Sweden",
+    "type": "plane"
+  },
+  "A-10A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-10A Late": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-10C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-1H": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-20G-25": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-26B-10": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-26B-50": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-26C-45": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-26C-45DT": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-36": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-4B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-4E Early": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-6E TRAM": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-7D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-7E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A-7K": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "A2D-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AD-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AD-4": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AM-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AU-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8B (NA)": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8B Plus": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "AV-8C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-10B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-17E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-17E/L": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-17G-60-VE": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-18A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-24D-25-CO": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-25J-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-25J-20": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-26B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-29A-BN": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-34": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-52H": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-57A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-57B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "B-66B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "BF2C-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "BTD-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-100D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-104A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-104C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-105D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-106A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-111A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-111F": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-117": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-14A Early": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-14B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15C Golden Eagle": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15C MSIP II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-15E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-16A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-16A ADF": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-16C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-16CM PoBIT": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-20A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4C Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4E Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4J Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-4S Phantom II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-5A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-5C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-5E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-80A-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-80C-10": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-82E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-84B-26": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-84F": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-84G-21-RE": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-86A-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-86F-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-86F-25": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-86F-35": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-89B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-89D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F-8E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18C Early": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18C Late": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F/A-18E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F11F-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F2A-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F2A-1 Тача": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F2A-3": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F2G-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F2H-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F3D-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F3F-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F3F-2 Гэлера": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F3H-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4D-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4F-3": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4F-4": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-1A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-1A (USMC)": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-1C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-1D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-4": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-4B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F4U-4B VMF-214": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F6F-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F6F-5N": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F7F-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F7F-3": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F8F-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F8F-1B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F8U-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F9F-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F9F-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "F9F-8": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "FJ-4B": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "FJ-4B VMF-232": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "FR-1 Fireball": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "MQ-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "O3U-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "OS2U-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "OS2U-3": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-26A-33": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-26A-34": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-26A-34 M2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-26B-35": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-36A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-36A Расмуссена": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-36C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-36G": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-38E": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-38G-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-38J-15": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-38J-15 Бонга": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-38K": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-38L-5-LO": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-39N-0": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-39Q-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-400": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-40C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-40E-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-40E-1 TD": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-40F-10": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-43A-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-47D-22-RE": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-47D-25": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-47D-28": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-47M-1-RE": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-47N-15": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51C-10": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51D-10": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51D-20-NA": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51D-30": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51D-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-51H-5-NA": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-59A": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-61A-11": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-61C-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-63A-10": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-63A-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "P-63C-5": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PB4Y-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBJ-1H": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBJ-1J": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBM-1 \"Mariner\"": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBM-3 \"Mariner\"": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBM-5A \"Mariner\"": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBY-5 \"Catalina\"": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PBY-5A \"Catalina\"": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "PV-2D": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SB2C-1C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SB2C-4": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SB2U-2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SB2U-3": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SBD-3": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SC-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "SOC-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "TBD-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "TBF-1C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "XA-38": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "XF5F": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "XF5U-1": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "XP-38G": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "XP-50": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "XP-55": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "YP-38": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "⋠P-47M-1-RE": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "␠Kingcobra": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▃A6M2": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▃Bf 109 F-4": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▃Fw 190 A-8": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▃Ki-43-II": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▃Ki-61-Ib": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▃Spitfire LF Mk.IXc": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "▄F-14A IRIAF": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "○P-36C": {
+    "nation": "USA",
+    "type": "plane"
+  },
+  "MiG-17AS": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Su-22M3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Su-25K": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Su-7BMK": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ар-2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ББ-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "БИ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Бе-6": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ДБ-3Б": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ДБ-ЛК": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ер-2 (АЧ-30Б) (п)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ер-2 (АЧ-30Б) (р)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ер-2 (М-105)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ер-2 (М-105) ТАТ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ер-2 (М-105Р) ЛУ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ер-2 (М-105Р) ТАТ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-15 WR": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-15 М-22": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-15 М-25": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-153 М-62": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-153-М62 Жуковского": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-153П": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-15бис": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-15бис Краснолуцкого": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-16 тип 10": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-16 тип 18": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-16 тип 24": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-16 тип 27": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-16 тип 28": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-16 тип 5": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-180С": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-185 (М-71)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-185 (М-82)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-225": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-29": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "И-301": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ИТП (М-1)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-10": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-10 (1946)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2 (1941)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2 (1942)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2 M-82": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2-37": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-28": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-28Ш": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2М \"Мститель\"": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2М (1943)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-2М тип 3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-4": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ил-8 (1944)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "КОР-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "КОР-2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-11": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-15": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-174": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-200": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-5": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-5Ф": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-5ФН": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-7": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-7 Долгушина": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-7Б-20": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ла-9": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-11": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-23": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-34": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-35": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-4": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-66": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ЛаГГ-3-8": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МБР-2-М-34": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-15": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-15бис": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-15бис ИШ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-17": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-19ПТ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21ПФМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21С (Р-13-300)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21СМТ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21Ф-13": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-21бис": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-23М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-23МЛ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-23МЛД": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-25ПД": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-27К": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-27М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-29 (9-12)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-29 (9-13)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-29М (9-15)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-29СМТ (9-19)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-3-15": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-3-15 (БК)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-3-34": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-9": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "МиГ-9 (п)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Орион": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-2-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-2-110": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-2-205": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-2-31": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-2-359": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-2-83": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-3 (р)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-3бис": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Пе-8": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "По-2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "По-2М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "СБ 2М-100А": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "СБ 2М-103": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "СБ 2М-103 МВ-3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "СБ 2М-103У": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "СБ 2М-103У МВ3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "СБ 2М-105": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-11": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-17М2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-17М4": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-2 (М-82)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-2 МВ-5": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-2 ТСС-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-24М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25CM3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25БМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-25Т": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-27": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-27СМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-30СМ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-30СМ2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-33": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-34": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-39": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-6": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-6 (АМ-42)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-6 (М-71Ф)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-7Б": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-7БКЛ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-8": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Су-9": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ТБ-3М-17-32": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "ТИС МА": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Тандем МАИ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-14Т": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-2": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-2С": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-2С-44": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-2С-59": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-4": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Ту-95М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-1 Литвяк": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-141": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-15": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-15П": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-17": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-1Б": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-2 КАББ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-23": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-28Б": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-3": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-3 (ВК-107)": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-3(р) Ерёмина": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-30Д": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-38": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-38М": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-3П": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-3Т": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-3У": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-4": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-7Б": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9Б": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9К": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9М Головачёва": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9П": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9Т": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9У": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "Як-9УТ": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂A-20G-30": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂B-25J-30": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂Fw 190 D-9": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂Hampden TB Mk.I": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂Hurricane Mk.IIB": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂L-39ZA Albatros": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-39K-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-39N-0 Покрышкина": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-39Q-15": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-40E-1": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-47D-27": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-63A-10": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-63A-5": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂P-63C-5": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂PBY-5A \"Каталина\"": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▂Spitfire Mk.IXc": {
+    "nation": "USSR",
+    "type": "plane"
+  },
+  "▄Su-30МК2 AMV": {
+    "nation": "USSR",
+    "type": "plane"
+  }
+}
