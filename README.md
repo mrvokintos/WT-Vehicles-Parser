@@ -19,7 +19,7 @@ Without a path, `--game` looks for the game in Steam libraries and the Gaijin la
 
 ## CI
 
-Every 6 hours `update-db.yml` compares the datamine `version` with `db/manifest.json` in the repository. When a new patch is out, it builds the database, commits `vehicles.json` and `db/manifest.json`, and replaces the files of the `db-latest` release. The tracker downloads them from `releases/download/db-latest/`, so other releases in this repository don't affect it. The commits also keep GitHub from disabling the schedule after 60 days without activity.
+Once a day (03:17 UTC) `update-db.yml` compares the datamine `version` with `db/manifest.json` in the repository. When a new patch is out, it builds the database, commits `vehicles.json` and `db/manifest.json`, and replaces the files of the `db-latest` release. The tracker downloads them from `releases/download/db-latest/`, so other releases in this repository don't affect it. The commits also keep GitHub from disabling the schedule after 60 days without activity.
 
 Manual run: Actions → update-db → Run (the force option rebuilds even if the version is unchanged).
 

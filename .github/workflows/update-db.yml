@@ -6,7 +6,7 @@ name: update-db
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 3 * * *" # once a day, 03:17 UTC
   push:
     branches: [main]
     paths: ["src/**", "Cargo.*", "overrides.json", ".github/workflows/update-db.yml"]
