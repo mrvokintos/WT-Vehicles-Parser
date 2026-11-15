@@ -1,0 +1,96 @@
+name: update-db
+
+# Rebuilds the DB when the datamine has a new game version, commits it (which also keeps
+# GitHub from disabling the schedule after 60 days without activity) and refreshes the
+# fixed db-latest release. WT Tracker reads releases/download/db-latest/{manifest,vehicles}.json.
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches: [main]
+    paths: ["src/**", "Cargo.*", "overrides.json", ".github/workflows/update-db.yml"]
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild even if the game version hasn't changed"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-db
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Datamine version vs committed manifest
+        id: ver
+        run: |
+          v=$(curl -fsSL https://raw.githubusercontent.com/gszabi99/War-Thunder-Datamine/master/version | tr -d '[:space:]')
+          have=$(jq -r '.game_version // empty' db/manifest.json 2>/dev/null || true)
+          echo "version=$v" >> "$GITHUB_OUTPUT"
+          echo "datamine: $v, repo: ${have:-none}"
+          skip=false
+          if [ "$have" = "$v" ]; then
+            case "${{ github.event_name }}" in
+              schedule) skip=true ;;
+              workflow_dispatch) [ "${{ inputs.force }}" = "true" ] || skip=true ;;
+            esac
+          fi
+          # the release must exist even if the version is unchanged (first run, deleted release)
+          gh release view db-latest >/dev/null 2>&1 || skip=false
+          echo "skip=$skip" >> "$GITHUB_OUTPUT"
+
+      - uses: dtolnay/rust-toolchain@stable
+        if: steps.ver.outputs.skip != 'true'
+      - uses: Swatinem/rust-cache@v2
+        if: steps.ver.outputs.skip != 'true'
+
+      - name: Test and build the parser
+        if: steps.ver.outputs.skip != 'true'
+        run: |
+          cargo test --release
+          cargo build --release
+
+      - name: Build the database
+        if: steps.ver.outputs.skip != 'true'
+        run: |
+          mkdir -p db
+          ./target/release/wt-vehicles-parser -o vehicles.json --manifest db/manifest.json
+          cat db/manifest.json
+          # guard against a broken source
+          test "$(jq length vehicles.json)" -gt 1500
+
+      - name: Commit
+        if: steps.ver.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vehicles.json db/manifest.json
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "db: ${{ steps.ver.outputs.version }}"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Update the db-latest release
+        if: steps.ver.outputs.skip != 'true'
+        run: |
+          notes="War Thunder ${{ steps.ver.outputs.version }}, $(jq length vehicles.json) names. Rebuilt automatically from War-Thunder-Datamine."
+          gh release view db-latest >/dev/null 2>&1 ||
+            gh release create db-latest --latest=false --title "Vehicle database" --notes "$notes"
+          # data first, manifest last: the tracker reads the manifest first
+          gh release upload db-latest vehicles.json --clobber
+          gh release upload db-latest db/manifest.json --clobber
+          gh release edit db-latest --notes "$notes"
