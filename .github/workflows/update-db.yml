@@ -30,7 +30,7 @@ jobs:
     env:
       GH_TOKEN: ${{ github.token }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Datamine version vs committed manifest
         id: ver
@@ -50,22 +50,34 @@ jobs:
           gh release view db-latest >/dev/null 2>&1 || skip=false
           echo "skip=$skip" >> "$GITHUB_OUTPUT"
 
-      - uses: dtolnay/rust-toolchain@stable
+      # The compiled parser is cached by a hash of its sources: scheduled runs reuse it
+      # and skip the toolchain/compile entirely. It lives outside target/ because the
+      # rust-cache post step prunes workspace artifacts from target/ before saving.
+      - name: Restore the compiled parser
+        id: bin
         if: steps.ver.outputs.skip != 'true'
+        uses: actions/cache@v6
+        with:
+          path: ~/wt-parser-bin
+          key: parser-${{ runner.os }}-${{ hashFiles('src/**', 'Cargo.toml', 'Cargo.lock') }}
+
+      # Rust stable is preinstalled on ubuntu-latest, so no toolchain action is needed.
       - uses: Swatinem/rust-cache@v2
-        if: steps.ver.outputs.skip != 'true'
+        if: steps.ver.outputs.skip != 'true' && steps.bin.outputs.cache-hit != 'true'
 
       - name: Test and build the parser
-        if: steps.ver.outputs.skip != 'true'
+        if: steps.ver.outputs.skip != 'true' && steps.bin.outputs.cache-hit != 'true'
         run: |
           cargo test --release
           cargo build --release
+          mkdir -p ~/wt-parser-bin
+          cp target/release/wt-vehicles-parser ~/wt-parser-bin/
 
       - name: Build the database
         if: steps.ver.outputs.skip != 'true'
         run: |
           mkdir -p db
-          ./target/release/wt-vehicles-parser -o vehicles.json --manifest db/manifest.json
+          ~/wt-parser-bin/wt-vehicles-parser -o vehicles.json --manifest db/manifest.json
           cat db/manifest.json
           # guard against a broken source
           test "$(jq length vehicles.json)" -gt 1500
