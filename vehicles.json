@@ -29052,9 +29052,17 @@
     "operator": "france"
   },
   "SPAD S.XIII": {
-    "nation": "Great Britain",
+    "nation": "unknown",
+    "nations": [
+      "Great Britain",
+      "France"
+    ],
     "type": "plane",
     "id": "spad_13",
+    "ids": [
+      "spad_13",
+      "spad_13_event"
+    ],
     "operator": "france"
   },
   "SPYDER": {
