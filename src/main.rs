@@ -113,7 +113,7 @@ fn cmd_build(args: &[String]) -> Result<i32, String> {
     // one line per id: compact but still diffable in git
     let names_info = match arg(args, &["--names"]) {
         Some(p) => {
-            let names = build::names(&wpcost, &loc);
+            let names = build::names(&wpcost, unittags.as_ref(), &loc);
             let mut text = String::from("{\n");
             for (i, (id, n)) in names.iter().enumerate() {
                 let sep = if i + 1 < names.len() { "," } else { "" };

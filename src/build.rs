@@ -216,10 +216,27 @@ pub fn display_name(raw: &str) -> Option<String> {
     (!s.is_empty()).then_some(s)
 }
 
+/// Most specific first: an MBT is tagged type_medium_tank, a strike jet both
+/// type_fighter and type_strike_aircraft.
+const CLASS_PRIORITY: &[&str] = &[
+    "heavy_tank", "tank_destroyer", "spaa", "light_tank", "medium_tank",
+    "attack_helicopter", "utility_helicopter",
+    "bomber", "strike_aircraft", "assault", "fighter",
+    "battleship", "battlecruiser", "heavy_cruiser", "light_cruiser", "destroyer", "frigate",
+    "submarine_chaser", "torpedo_boat", "gun_boat", "armored_boat", "barge", "boat",
+];
+
+/// Vehicle class from unittags `type_*` tags.
+fn class(unittags: Option<&Value>, id: &str) -> Option<&'static str> {
+    let tags = unittags?.get(id)?.get("tags")?.as_object()?;
+    CLASS_PRIORITY.iter().find(|c| tags.contains_key(&format!("type_{c}"))).copied()
+}
+
 /// `id → {language → name}` for every unit in wpcost: the tech tree name (`<id>_shop`),
 /// falling back to the short one (`<id>_1`). Only English is always present, other
-/// languages are listed when they differ from it.
-pub fn names(wpcost: &Value, loc: &Loc) -> BTreeMap<String, BTreeMap<String, String>> {
+/// languages are listed when they differ from it. Lowercase keys carry extra data:
+/// `nation` (tech tree: usa, ussr...) and `class` (medium_tank, fighter...).
+pub fn names(wpcost: &Value, unittags: Option<&Value>, loc: &Loc) -> BTreeMap<String, BTreeMap<String, String>> {
     let langs = loc.languages();
     let mut out = BTreeMap::new();
     let Some(obj) = wpcost.as_object() else { return out };
@@ -238,6 +255,12 @@ pub fn names(wpcost: &Value, loc: &Loc) -> BTreeMap<String, BTreeMap<String, Str
             }
         }
         m.insert("English".to_string(), en);
+        if let Some(c) = v.get("country").and_then(Value::as_str) {
+            m.insert("nation".to_string(), c.trim_start_matches("country_").to_string());
+        }
+        if let Some(c) = class(unittags, id) {
+            m.insert("class".to_string(), c.to_string());
+        }
         out.insert(id.clone(), m);
     }
     out
@@ -329,11 +352,22 @@ mod tests {
             \"us_m1a1_aim_abrams_1\";\"M1A1 SA\";\"M1A1 SA\"\n\
             \"ussr_t_80ue1_1\";\"▄T-80UE-1\";\"▄Т-80У-Е1\"\n\
             \"us_mq_1_shop\";\"\u{e059} MQ-1\";\"\"\n";
-        let n = names(&wpcost(), &Loc::parse(csv).unwrap());
-        assert_eq!(n["us_m1a1_aim_abrams"], BTreeMap::from([("English".into(), "M1A1 SA".into())]));
+        let tags = json!({"us_m1a1_aim_abrams": {"tags": {"type_tank": true, "type_medium_tank": true}},
+                          "us_mq_1": {"tags": {"type_fighter": true, "type_strike_aircraft": true}}});
+        let n = names(&wpcost(), Some(&tags), &Loc::parse(csv).unwrap());
+        assert_eq!(
+            n["us_m1a1_aim_abrams"],
+            BTreeMap::from([
+                ("English".into(), "M1A1 SA".into()),
+                ("nation".into(), "usa".into()),
+                ("class".into(), "medium_tank".into())
+            ])
+        );
+        assert_eq!(n["us_mq_1"]["class"], "strike_aircraft");
+        assert!(!n["ussr_t_80ue1"].contains_key("class"));
         assert_eq!(n["ussr_t_80ue1"]["English"], "T-80UE-1");
         assert_eq!(n["ussr_t_80ue1"]["Russian"], "Т-80У-Е1");
-        assert_eq!(n["us_mq_1"].len(), 1, "empty russian is skipped");
+        assert!(!n["us_mq_1"].contains_key("Russian"), "empty russian is skipped");
         assert_eq!(n["us_mq_1"]["English"], "MQ-1");
         assert!(!n.contains_key("germ_mq_1"));
         assert!(!n.contains_key("economicRankMax"));
