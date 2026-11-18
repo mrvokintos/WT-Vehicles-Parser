@@ -3,6 +3,11 @@
   "game_version": "2.61.0.26",
   "count": 10972,
   "sha256": "5aecf37efb257e9d4b36447c7c4176f766c3ee5cf21c10a83d662e709f343915",
-  "generated": 1795002303,
-  "file": "vehicles.json"
+  "generated": 1795019021,
+  "file": "vehicles.json",
+  "names": {
+    "count": 3424,
+    "sha256": "14bbfd76aaa86ca27b447b59eae17c2c463e53683d8152f6239125f16a8a23a9",
+    "file": "names.json"
+  }
 }
