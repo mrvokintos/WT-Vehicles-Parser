@@ -21,6 +21,7 @@ WT Vehicles Parser — база техники для WT Tracker из файло
   --langs <список>      языки названий через запятую, первый главный
                         (по умолчанию все языки units.csv: Russian, English, затем остальные)
   --manifest <файл>     записать манифест (версия игры, число записей) — для автообновления в трекере
+  --names <файл>        дополнительно записать id → название (для WT Discord RPC)
   --print-version       только вывести версию игры источника и выйти
 
 Опции verify:
@@ -107,14 +108,32 @@ fn cmd_build(args: &[String]) -> Result<i32, String> {
     let out = PathBuf::from(arg(args, &["-o", "--out"]).unwrap_or("vehicles.json"));
     let bytes = (serde_json::to_string_pretty(&db).map_err(|e| e.to_string())? + "\n").into_bytes();
     std::fs::write(&out, &bytes).map_err(|e| format!("{}: {e}", out.display()))?;
+    use sha2::{Digest, Sha256};
+    let sha = |b: &[u8]| -> String { Sha256::digest(b).iter().map(|b| format!("{b:02x}")).collect() };
+    // one line per id: compact but still diffable in git
+    let names_info = match arg(args, &["--names"]) {
+        Some(p) => {
+            let names = build::names(&wpcost, &loc);
+            let mut text = String::from("{\n");
+            for (i, (id, n)) in names.iter().enumerate() {
+                let sep = if i + 1 < names.len() { "," } else { "" };
+                text += &format!("{}:{}{sep}\n", serde_json::to_string(id).unwrap(), serde_json::to_string(n).unwrap());
+            }
+            text += "}\n";
+            std::fs::write(p, &text).map_err(|e| format!("{p}: {e}"))?;
+            println!("Названий по id: {} → {p}", names.len());
+            let file = std::path::Path::new(p).file_name().and_then(|f| f.to_str()).unwrap_or("names.json");
+            Some(serde_json::json!({ "count": names.len(), "sha256": sha(text.as_bytes()), "file": file }))
+        }
+        None => None,
+    };
     if let Some(m) = arg(args, &["--manifest"]) {
         let generated = std::time::SystemTime::now()
             .duration_since(std::time::UNIX_EPOCH)
             .map_or(0, |d| d.as_secs());
-        use sha2::{Digest, Sha256};
-        let sha256: String = Sha256::digest(&bytes).iter().map(|b| format!("{b:02x}")).collect();
+        let sha256 = sha(&bytes);
         // the tracker checks count and sha256 before saving, so a half-updated release is never kept
-        let manifest = serde_json::json!({
+        let mut manifest = serde_json::json!({
             "format": 1,
             "game_version": data.version,
             "count": db.len(),
@@ -122,6 +141,9 @@ fn cmd_build(args: &[String]) -> Result<i32, String> {
             "generated": generated,
             "file": out.file_name().and_then(|f| f.to_str()).unwrap_or("vehicles.json"),
         });
+        if let Some(n) = names_info {
+            manifest["names"] = n;
+        }
         std::fs::write(m, serde_json::to_string_pretty(&manifest).unwrap() + "\n").map_err(|e| format!("{m}: {e}"))?;
         eprintln!("Манифест: {m}");
     }

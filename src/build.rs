@@ -198,6 +198,51 @@ pub fn build(wpcost: &Value, unittags: Option<&Value>, loc: &Loc, langs: &[Strin
     (out, report)
 }
 
+/// Game-font glyphs (premium/squadron/nation markers) that don't render outside the game.
+fn is_marker(c: char) -> bool {
+    matches!(c,
+        '\u{2400}'..='\u{243f}' // control pictures: ␗ ␙ ␠
+        | '\u{2580}'..='\u{259f}' // block elements: ▄ ▀ ▂
+        | '\u{25a0}'..='\u{25ff}' // geometric shapes: ◄ ◊ ◔
+        | '\u{2622}' | '\u{22e0}'
+        | '\u{e000}'..='\u{f8ff}' // private use
+        | '\u{200b}')
+}
+
+/// Name for display outside the game (Discord Rich Presence): no marker glyphs, single spaces.
+pub fn display_name(raw: &str) -> Option<String> {
+    let s: String = raw.replace("\\t", " ").replace('\t', " ").chars().filter(|c| !is_marker(*c)).collect();
+    let s = s.split_whitespace().collect::<Vec<_>>().join(" ");
+    (!s.is_empty()).then_some(s)
+}
+
+/// `id → {language → name}` for every unit in wpcost: the tech tree name (`<id>_shop`),
+/// falling back to the short one (`<id>_1`). Only English is always present, other
+/// languages are listed when they differ from it.
+pub fn names(wpcost: &Value, loc: &Loc) -> BTreeMap<String, BTreeMap<String, String>> {
+    let langs = loc.languages();
+    let mut out = BTreeMap::new();
+    let Some(obj) = wpcost.as_object() else { return out };
+    for (id, v) in obj {
+        if v.get("unitClass").and_then(Value::as_str).is_none() {
+            continue;
+        }
+        let name = |lang: &str| {
+            [format!("{id}_shop"), format!("{id}_1")].iter().find_map(|k| loc.get(k, lang).and_then(display_name))
+        };
+        let Some(en) = name("English") else { continue };
+        let mut m = BTreeMap::new();
+        for l in &langs {
+            if let Some(n) = name(l).filter(|n| *n != en) {
+                m.insert(l.clone(), n);
+            }
+        }
+        m.insert("English".to_string(), en);
+        out.insert(id.clone(), m);
+    }
+    out
+}
+
 pub fn apply_overrides(db: &mut BTreeMap<String, Value>, overrides: &Value) -> usize {
     let Some(o) = overrides.as_object() else { return 0 };
     for (name, v) in o {
@@ -274,6 +319,24 @@ mod tests {
         assert_eq!(db["Т-80У-Е1"]["operator"], "ussr", "no flag -> tree flag");
         assert_eq!(db["MQ-1"]["operators"], json!(["germany", "usa"]));
         assert_eq!(db["MQ-1"]["ids"], json!(["germ_mq_1", "us_mq_1"]));
+    }
+
+    #[test]
+    fn names_by_id() {
+        let csv = "\"<ID|readonly|noverify>\";\"<English>\";\"<Russian>\"\n\
+            \"us_m1a1_aim_abrams_shop\";\"M1A1 SA\";\"M1A1 SA\"\n\
+            \"us_m1a1_aim_abrams_0\";\"Tank, Combat, Full Tracked\";\"Танк\"\n\
+            \"us_m1a1_aim_abrams_1\";\"M1A1 SA\";\"M1A1 SA\"\n\
+            \"ussr_t_80ue1_1\";\"▄T-80UE-1\";\"▄Т-80У-Е1\"\n\
+            \"us_mq_1_shop\";\"\u{e059} MQ-1\";\"\"\n";
+        let n = names(&wpcost(), &Loc::parse(csv).unwrap());
+        assert_eq!(n["us_m1a1_aim_abrams"], BTreeMap::from([("English".into(), "M1A1 SA".into())]));
+        assert_eq!(n["ussr_t_80ue1"]["English"], "T-80UE-1");
+        assert_eq!(n["ussr_t_80ue1"]["Russian"], "Т-80У-Е1");
+        assert_eq!(n["us_mq_1"].len(), 1, "empty russian is skipped");
+        assert_eq!(n["us_mq_1"]["English"], "MQ-1");
+        assert!(!n.contains_key("germ_mq_1"));
+        assert!(!n.contains_key("economicRankMax"));
     }
 
     #[test]

@@ -2,7 +2,8 @@ name: update-db
 
 # Rebuilds the DB when the datamine has a new game version, commits it (which also keeps
 # GitHub from disabling the schedule after 60 days without activity) and refreshes the
-# fixed db-latest release. WT Tracker reads releases/download/db-latest/{manifest,vehicles}.json.
+# fixed db-latest release. WT Tracker reads releases/download/db-latest/{manifest,vehicles}.json,
+# WT Discord RPC reads {manifest,names}.json.
 
 on:
   schedule:
@@ -77,17 +78,18 @@ jobs:
         if: steps.ver.outputs.skip != 'true'
         run: |
           mkdir -p db
-          ~/wt-parser-bin/wt-vehicles-parser -o vehicles.json --manifest db/manifest.json
+          ~/wt-parser-bin/wt-vehicles-parser -o vehicles.json --names names.json --manifest db/manifest.json
           cat db/manifest.json
           # guard against a broken source
           test "$(jq length vehicles.json)" -gt 1500
+          test "$(jq length names.json)" -gt 1500
 
       - name: Commit
         if: steps.ver.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add vehicles.json db/manifest.json
+          git add vehicles.json names.json db/manifest.json
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
@@ -104,5 +106,6 @@ jobs:
             gh release create db-latest --latest=false --title "Vehicle database" --notes "$notes"
           # data first, manifest last: the tracker reads the manifest first
           gh release upload db-latest vehicles.json --clobber
+          gh release upload db-latest names.json --clobber
           gh release upload db-latest db/manifest.json --clobber
           gh release edit db-latest --notes "$notes"

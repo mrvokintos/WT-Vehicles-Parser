@@ -48,6 +48,14 @@ Manual corrections go into `overrides.json`: listed fields are replaced, `null` 
 { "M1A1 SA": { "note": "Australian" } }
 ```
 
+### names.json
+
+`--names names.json` also writes a map from vehicle id to its tech tree name (`<id>_shop`, falling back to `<id>_1`), with game-font marker glyphs removed. It is used by WT Discord RPC. `English` is always present; other languages are listed only when they differ from it.
+
+```json
+{ "ussr_t_80ue1": { "English": "T-80U-E1", "Russian": "Т-80У-Е1" } }
+```
+
 ## License
 
 [GPL-3.0](LICENSE)
