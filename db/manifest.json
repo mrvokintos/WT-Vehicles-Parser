@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "game_version": "2.61.0.33",
+  "game_version": "2.61.0.37",
   "count": 10972,
-  "sha256": "5aecf37efb257e9d4b36447c7c4176f766c3ee5cf21c10a83d662e709f343915",
-  "generated": 1795174930,
+  "sha256": "79f428399bfc35cc8e0a030a541018d4ba4eae5d7a017bb9e18a1fb05ed81392",
+  "generated": 1795259082,
   "file": "vehicles.json",
   "names": {
     "count": 3424,
-    "sha256": "5e7e1ee2504ca504cec33e1df175ca17bce6d562e9394cefbd36fbf8caee4f55",
+    "sha256": "d2f11a4c620eb0bb7fb81bba86897adcf0cf022adb93ab2583e2330946e17a2d",
     "file": "names.json"
   }
 }

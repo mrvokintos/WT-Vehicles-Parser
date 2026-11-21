@@ -67728,6 +67728,12 @@
     "id": "germ_pzsfl_IVa_dickermax",
     "operator": "germany"
   },
+  "라암 세골": {
+    "nation": "Israel",
+    "type": "tank",
+    "id": "il_merkava_mk_3_raam_segol",
+    "operator": "israel"
+  },
   "라이트닝 F.53": {
     "nation": "Great Britain",
     "type": "plane",
@@ -67805,12 +67811,6 @@
     "type": "zsu",
     "id": "it_lancia_flak38",
     "operator": "italy_kingdom"
-  },
-  "람 세골": {
-    "nation": "Israel",
-    "type": "tank",
-    "id": "il_merkava_mk_3_raam_segol",
-    "operator": "israel"
   },
   "램 I": {
     "nation": "Great Britain",
